@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VidathRanasinghe
+- 👋 Hi, I’m @Lowsight
 - 👀 I’m interested in Grahphic Designing and Software Engineering. ...
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Software Engineering
